@@ -24,7 +24,7 @@ const Sec3 = () => {
               save web pages or take screenshots as notes.
             </p>
             <button className="flex gap-2 items-center font-medium px-[40px] py-[20px]  rounded-lg bg-[#4F9CF9] text-white mt-12 md:mt-10">
-              Let's Go 
+              Lets Go 
               <Image
               alt="vector"
               src='/VectorR.svg'

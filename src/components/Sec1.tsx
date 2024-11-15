@@ -1,5 +1,5 @@
 import React from "react";
-
+import Image from "next/image";
 const Sec1 = () => {
   return (
     <div>
@@ -16,7 +16,13 @@ const Sec1 = () => {
                 photos with the mobile app and <br /> save them to a note.
               </p>
               <button className="flex gap-2 items-center font-medium px-[40px] py-[20px] md:mt-0 mt-10 rounded-lg bg-[#4F9CF9]">
-                Get Started <img src="/VectorR.svg" alt="right" />
+                Get Started 
+                <Image
+                alt="error"
+                src="VectorR.svg"
+                width={7}
+                height={7}
+                />
               </button>
             </div>
             <div className="md:w-[500px] md:h-[350px] w-[350px] h-[200px] mt-20 md:mt-0 bg-[#C4DEFD]"></div>

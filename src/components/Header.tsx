@@ -25,7 +25,7 @@ const Header = () => {
             alt="error"
             width={42}
             height={45}
-            className="w-[42px] h-[24px] "
+            className="w-[42px] h-[24px]"
             />
           </div>
       </div>
