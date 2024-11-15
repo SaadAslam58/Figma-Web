@@ -12,7 +12,13 @@ const Header = () => {
               Login
             </button>
             <button className="px-7 hidden py-3 bg-[#4F9CF9] rounded-[8px] text-white md:flex items-center gap-2">
-              Try Whitepace free <img src="/VectorR.svg" alt="right" />
+              Try Whitepace free 
+              <Image
+              src='/VectorR.svg'
+              alt="vectorR"
+              width={7}
+              height={7}
+              />
             </button>
             <Image
             src='/Hum-menu.png'
