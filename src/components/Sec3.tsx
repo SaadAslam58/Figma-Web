@@ -4,11 +4,11 @@ const Sec3 = () => {
   return (
     <div>
       <div className="flex justify-center items-center w-full h-screen bg-[#043873] ">
-        <div className="relative flex flex-col md:flex-row justify-evenly items-center w-[95%]">
+        <div className="relative flex flex-col md:flex-row justify-evenly items-center w-[95%] ">
           <div className="relative flex md:flex-none flex-col justify-center items-center md:items-start text-center md:text-left">
             <h1 className="relative font-bold md:text-[64px] text-[36px] z-20 ">
               Use as {""} 
-              <span className=" relative z-30">
+              <span className=" relative z-30 text-wrap">
                 Extension 
                 </span>
               <Image

@@ -10,10 +10,10 @@ const Sec1 = () => {
               <h1 className="md:text-[72px] text-[36px] mb-4 text-black font-bold justify-evenly">
                 Project <br /> Management
               </h1>
-              <p className="text-black mb-7 text-[18px]">
-                Images, videos, PDFs and audio files are supported. <br /> Create math
-                expressions and diagrams directly from <br /> the app. Take
-                photos with the mobile app and <br /> save them to a note.
+              <p className="text-black mb-7 text-[18px] w-[400px]">
+                Images, videos, PDFs and audio files are supported.Create math
+                expressions and diagrams directly from  the app. Take
+                photos with the mobile app and save them to a note.
               </p>
               <button className="flex gap-2 items-center font-medium px-[40px] py-[20px] md:mt-0 mt-10 rounded-lg bg-[#4F9CF9]">
                 Get Started 
